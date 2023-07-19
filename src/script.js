@@ -162,7 +162,7 @@ window.addEventListener('load', () => {
 
 
 
-console.clear();
+//console.clear();
 
 function updateLinks() {
   const slug = currentSlug;
